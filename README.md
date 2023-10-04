@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me: gokaykara6161@gmail.com </h3>
 <p align="left">
 <a href="https://medium.com/@gokaykara6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokaykara6161" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucmqz7nujwqcprx-uobr_vyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmqz7nujwqcprx-uobr_vyq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMqZ7nuJWQcPrX-uOBr_vYQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmqz7nujwqcprx-uobr_vyq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
