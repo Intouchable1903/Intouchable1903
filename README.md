@@ -1,7 +1,7 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/352/678/575/mask-anonymous-typographic-portraits-digital-art-wallpaper-preview.jpg)
-<h1 align="center">Hi 👋, I'm Gökay</h1>
+<h1 align="center">Hi 👋, I'm Gökay KARA</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: gokaykara6161@gmail.com </h3>
 <p align="left">
 <a href="https://medium.com/@gokaykara6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokaykara6161" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmqz7nujwqcprx-uobr_vyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmqz7nujwqcprx-uobr_vyq" height="30" width="40" /></a>
